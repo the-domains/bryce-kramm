@@ -4,7 +4,7 @@
         <description><![CDATA[Consulting]]></description>
         <link>https://thegrid.ai/bryce-kramm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 05:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2016 05:20:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bryce-kramm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bryce-kramm/2109198f-c995-4432-9eb0-481f351463ff/index.html</link>
             <guid isPermaLink="false">2109198f-c995-4432-9eb0-481f351463ff</guid>
             <pubDate>Tue, 09 Aug 2016 05:19:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19fc433d-46fd-48e4-8095-30c1a22141f9.png">]]></description>
+            <link>https://thegrid.ai/bryce-kramm/5bc30336-0bc2-4176-a8c8-2863bd6233ac/index.html</link>
+            <guid isPermaLink="false">5bc30336-0bc2-4176-a8c8-2863bd6233ac</guid>
+            <pubDate>Tue, 09 Aug 2016 05:19:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bryce-kramm/d51dae3c-e3b8-46a7-9c3f-913734cb4e38/index.html</link>
             <guid isPermaLink="false">d51dae3c-e3b8-46a7-9c3f-913734cb4e38</guid>
             <pubDate>Tue, 09 Aug 2016 05:06:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa1fdb83-6515-4994-9c85-42a5817944cb.jpg">]]></description>
-            <link>https://thegrid.ai/bryce-kramm/9174933f-ef5d-4e44-9489-a5b73214b929/index.html</link>
-            <guid isPermaLink="false">9174933f-ef5d-4e44-9489-a5b73214b929</guid>
-            <pubDate>Tue, 09 Aug 2016 05:06:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
